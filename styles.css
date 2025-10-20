@@ -6,7 +6,7 @@ body {
 
 /* ----------------- CAJA PRINCIPAL DEL FEED ----------------- */
 .insta-box-wide {
-  width: 60%;
+  /*width: 60%;*/
   background-color: #1c1c1c;
   color: #fff;
   border-radius: 15px;
